@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryApp2", "LibraryApp2.csproj", "{4DFE2D90-2735-437B-95A2-6095B383AAE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLib", "..\MathLib\MathLib.csproj", "{4A293106-C55E-4853-99C9-BEBCC38F224F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLib", "..\StringLib\StringLib.csproj", "{96795614-1CBC-4F89-8FFC-780CE084D08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DFE2D90-2735-437B-95A2-6095B383AAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFE2D90-2735-437B-95A2-6095B383AAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFE2D90-2735-437B-95A2-6095B383AAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFE2D90-2735-437B-95A2-6095B383AAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A293106-C55E-4853-99C9-BEBCC38F224F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A293106-C55E-4853-99C9-BEBCC38F224F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A293106-C55E-4853-99C9-BEBCC38F224F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A293106-C55E-4853-99C9-BEBCC38F224F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96795614-1CBC-4F89-8FFC-780CE084D08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96795614-1CBC-4F89-8FFC-780CE084D08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96795614-1CBC-4F89-8FFC-780CE084D08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96795614-1CBC-4F89-8FFC-780CE084D08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F507C6-72EF-489B-AAD3-6D498ECFFF6E}
+	EndGlobalSection
+EndGlobal
